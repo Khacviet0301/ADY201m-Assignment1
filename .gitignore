@@ -1,0 +1,4 @@
+__pycache__/
+.ipynb_checkpoints/
+cardio.db
+out.txt
